@@ -12,7 +12,7 @@ Each mission is completed, documented, and committed independently to track prog
 | Mission | Title | Directory / Documentation | Status |
 | :--- | :--- | :--- | :--- |
 | **Mission 00** | GitHub Workspace Setup | [mission-00-setup/README.md](./mission-00-setup/README.md) | Completed |
-| **Mission 01** | Computer Basics & IPOS | [mission-01-computer-basics/README.md](./mission-01-computer-basics/README.md) | Pending |
+| **Mission 01** | Computer Basics & IPOS | [mission-01-computer-basics/README.md](./mission-01-computer-basics/README.md) | Completed |
 | **Mission 02** | Terminal Operations & Commands | [mission-02-terminal/README.md](./mission-02-terminal/README.md) | Pending |
 | **Mission 03** | Operating System Mechanics | [mission-03-operating-system/README.md](./mission-03-operating-system/README.md) | Pending |
 | **Mission 04** | Programs, Compilers & Interpreters | [mission-04-programs/README.md](./mission-04-programs/README.md) | Pending |
