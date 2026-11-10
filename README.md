@@ -18,7 +18,7 @@ Each mission is completed, documented, and committed independently to track prog
 | **Mission 04** | Programs, Compilers & Interpreters | [mission-04-programs/README.md](./mission-04-programs/README.md) | Completed |
 | **Mission 05** | Numbers, Encodings & Data Converter | [mission-05-numbers-data/README.md](./mission-05-numbers-data/README.md) | Completed |
 | **Mission 06** | Git & GitHub Distributed Workflows | [mission-06-git-github/README.md](./mission-06-git-github/README.md) | Completed |
-| **Mission 07** | Computer Networking & Protocols | [mission-07-networking/README.md](./mission-07-networking/README.md) | Pending |
+| **Mission 07** | Computer Networking & Protocols | [mission-07-networking/README.md](./mission-07-networking/README.md) | Completed |
 | **Mission 08** | Final Synthesis & Comprehensive Report | [mission-08-final-report/README.md](./mission-08-final-report/README.md) | Pending |
 
 Visual evidence, terminal outputs, and verification records are preserved in the [evidence/](./evidence) directory.
