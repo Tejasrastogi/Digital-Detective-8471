@@ -25,6 +25,21 @@ Visual evidence, terminal outputs, and verification records are preserved in the
 
 ---
 
+## My Learning
+
+Through the completion of the foundational missions in the Digital Detective assignment, several core computer science and engineering principles were explored and practiced:
+
+1. **Hardware Architecture & The IPOS Cycle (Missions 00 & 01)**:
+   - Understood the Input-Processing-Output-Storage (IPOS) model that governs all digital computer systems. Traced real-world activities from hardware input devices through CPU registers and memory buses to persistent NVMe SSD blocks and display controllers.
+
+2. **Operating System Mechanics & Process Control (Missions 02 & 03)**:
+   - Explored UNIX command-line primitives, process trees, and preemptive multitasking. Learned how the OS kernel schedules CPU time using Process Identifiers (PIDs), isolates process memory, manages peripheral hardware via device drivers, and enforces access control through POSIX file permissions (`rwx`).
+
+3. **Program Execution Models & Data Representation (Missions 04 & 05)**:
+   - Investigated the difference between ahead-of-time compiled native binaries (e.g., C/Rust) and interpreted bytecode execution (e.g., Python PVM). Built practical fluency converting data across decimal, binary, and hexadecimal radix systems, and analyzed how character encoding standards (7-bit ASCII vs. variable-length UTF-8) represent international text and symbols.
+
+---
+
 ## Privacy & Security Compliance
 In strict adherence to assignment privacy requirements:
 - No personal identifiers (local computer username, device name, serial number, Wi-Fi network SSID, or IP address) are published.
